@@ -1,0 +1,23 @@
+# dependencies #后面的是注释
+node_modules   
+
+#testing
+/coverage
+
+#production /是根目录的意思
+/build   
+
+#misc
+.DG_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.prodution.local
+
+# npm or yarn 安装时生成的错误文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#webstrom
+.idea
