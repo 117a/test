@@ -17,4 +17,5 @@ var c=10;
 var d=20;
 [c,d]=[d,c];
 console.log(c, d);
+//test
 
